@@ -18,3 +18,5 @@ I had run into issues in most of the steps as I am a complete newbie in this are
 All I did was to search for solutions either in Google or YouTube.
 
 Not all solutions were easy and beginner friendly for some of the steps, so I had to look deeper or change the prompt to get the desired result.
+
+Had trouble with the push and pull from Cursor to GitHub, somehow every actions were conflicted. Dug around the possible pull options and somehow I was able to sync the repository. Finally pushed the README in.
